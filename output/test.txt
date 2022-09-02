@@ -1,0 +1,2 @@
+2	-3	abcde			a		a
+1000000000	2	10000.24	0.0002	abcdefghijklmo		
