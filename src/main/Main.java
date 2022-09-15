@@ -1,5 +1,4 @@
 // NAME: JADONMICHAEL DE JESUS
-// PANTHER ID: 6176454
 package main;
 
 import java.util.*;
